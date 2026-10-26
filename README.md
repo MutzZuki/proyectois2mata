@@ -1,3 +1,4 @@
+![Banner del proyecto](BANNER.jpg)
 # Practica 2 2° Parcial IS Mata 
 
 ## Ejercicio de GitHub
