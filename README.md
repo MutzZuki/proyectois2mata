@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="BANNER.jpg" alt="Banner del proyecto" width="100%">
+</p>
 # Practica 2 2° Parcial IS Mata 
 
 ## Ejercicio de GitHub
